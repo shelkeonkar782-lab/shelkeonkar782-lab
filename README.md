@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I'm looking to collaborate on: Software Development, Cybersecurity & AI projects.<br>💛 I'm looking for help with: DSA, Problem Solving, Git/GitHub & Cybersecurity.<br>🌱 I'm currently learning: Python, SQL, JavaScript, DSA, Git/GitHub & AI/LLMs.<br>💬 Ask me about: Programming, Cybersecurity, Web Development & Student Projects.<br>⚡ Fun fact: I love coding and calisthenics. 💻💪
+🤝 I'm looking to collaborate on: Software Development, Cybersecurity & AI projects.<br>💛 I'm looking for help with: DSA, Problem Solving, Git/GitHub & Cybersecurity.<br>🌱 I'm currently learning: Python, SQL, JavaScript, DSA, Git/GitHub & AI/LLMs.<br>💬 Ask me about: Programming, Cybersecurity, Web Development & Student Projects. I enjoy solving problems, exploring emerging technologies, and turning what I learn into practical projects. I'm always open to learning, collaborating, and connecting with people form the technology community.
 
 
 ## 🌐 Socials:
